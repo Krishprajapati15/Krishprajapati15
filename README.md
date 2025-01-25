@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">🌟 Welcome to Krish Prajapati's GitHub 🌟</h1>
-<h3 align="center">MERN Stack Developer | AI Enthusiast | Creative Technologist</h3>
+<h3 align="center">MERN Stack Developer | NEXT JS | Data Analysis | AI | Creative Technologist</h3>
 
 ---
 
