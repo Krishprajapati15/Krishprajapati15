@@ -23,7 +23,7 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Technologies** | **Soft Skills** |
 |:--------------------------:|:--------------------------:|:-------------------------:|:---------------:|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-3B82F6?style=for-the-badge&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | 🌐 Collaboration <br> 📈 Problem Solving <br> 🎯 Leadership <br> 🤝 Teamwork |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Barba.js](https://img.shields.io/badge/-Barba.js-000000?style=for-the-badge&logo=javascript&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Spline](https://img.shields.io/badge/-Spline-000000?style=for-the-badge&logo=Spline&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🌐 Collaboration <br> 📈 Problem Solving <br> 🎯 Leadership <br> 🤝 Teamwork |
 
 </div>
 
@@ -33,8 +33,8 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 ✨ **A glimpse into my creative work**:  
 
-- **[WealthLens](https://github.com/Krishprajapati15/wealthlens)** – An **AI-powered finance platform** to help users track their income, manage expenses, and predict taxes automatically.
-- **[Travic](https://github.com/Krishprajapati15/travic)** – A **smart AI-based traffic management system** that dynamically controls traffic lights in real-time to optimize traffic flow using IoT sensors.
+- **[WealthLens](https://github.com/Krishprajapati15/wealthlens)** – A **personal finance management platform** featuring AI-powered receipt scanning and real-time expense tracking.  
+- **[Travic](https://github.com/Krishprajapati15/travic)** – A **smart AI-based traffic management system** that adapts to real-time traffic data and adjusts light timings accordingly.  
 - **[Arogya Darpan](https://github.com/Krishprajapati15/arogya-darpan)** – A **healthcare facility management system** ensuring real-time emergency resource tracking.  
 - **[MyGPT](https://github.com/Krishprajapati15/mygpt)** – A personal **ChatGPT clone**, showcasing my expertise in AI and web development.  
 - **File Transfer System** – Seamlessly transfers files across devices using a clean and user-friendly interface.  
@@ -46,9 +46,10 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 ### 🏆 Achievements & Soft Skills
 
-- 🏅 **Leadership Excellence**: Successfully led multiple teams during project development and hackathons.  
+- 🏅 **Finalist in Three Hackathons** with **Hacker House**.  
+- 🏅 **Waitlist for SIH 2024 Grand Finale**.  
 - 💡 **Innovative Thinking**: Designed and implemented **AI-driven systems** and **real-time data solutions**.  
-- 🌟 **Team Player**: Collaborated across diverse teams to achieve shared goals.  
+- 🌟 **Team Leader**: Collaborated across diverse teams to achieve shared goals.  
 
 ---
 
@@ -79,7 +80,7 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 ### 🌌 Let’s Connect!
 
-🔗 **LinkedIn**: [Krish Prajapati's Profile](https://linkedin.com/in/your-profile)  
-📧 **Email**: krishprajapati15@example.com  
+🔗 **LinkedIn**: [Krish Prajapati's Profile](https://www.linkedin.com/in/krish-prajapati-37417226a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 **Email**: prajapatikrish132005@gmail.com  
 
 🌟 *"Together, let’s turn ideas into impactful solutions!"*
