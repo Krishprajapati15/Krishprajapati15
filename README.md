@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="Banner" width="800"/>
 </div>
@@ -24,7 +23,7 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Technologies** | **Soft Skills** |
 |:--------------------------:|:--------------------------:|:-------------------------:|:---------------:|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-3B82F6?style=for-the-badge&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 🌐 Collaboration <br> 📈 Problem Solving <br> 🎯 Leadership <br> 🤝 Teamwork |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/-DaisyUI-3B82F6?style=for-the-badge&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | 🌐 Collaboration <br> 📈 Problem Solving <br> 🎯 Leadership <br> 🤝 Teamwork |
 
 </div>
 
@@ -34,6 +33,8 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 
 ✨ **A glimpse into my creative work**:  
 
+- **[WealthLens](https://github.com/Krishprajapati15/wealthlens)** – An **AI-powered finance platform** to help users track their income, manage expenses, and predict taxes automatically.
+- **[Travic](https://github.com/Krishprajapati15/travic)** – A **smart AI-based traffic management system** that dynamically controls traffic lights in real-time to optimize traffic flow using IoT sensors.
 - **[Arogya Darpan](https://github.com/Krishprajapati15/arogya-darpan)** – A **healthcare facility management system** ensuring real-time emergency resource tracking.  
 - **[MyGPT](https://github.com/Krishprajapati15/mygpt)** – A personal **ChatGPT clone**, showcasing my expertise in AI and web development.  
 - **File Transfer System** – Seamlessly transfers files across devices using a clean and user-friendly interface.  
@@ -82,4 +83,3 @@ Hello! I'm **Krish Prajapati**, a passionate **MERN Stack Developer** with exper
 📧 **Email**: krishprajapati15@example.com  
 
 🌟 *"Together, let’s turn ideas into impactful solutions!"*
-
