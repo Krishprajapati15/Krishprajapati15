@@ -64,15 +64,11 @@ Let’s create something amazing together!
 
 <table style="width:80%; border:none; background-color:#1c1c1c; color:white; border-radius:10px;">
   <tr style="border:none;">
-    <td align="center" width="33%">
-      <h3 style="color:orange;">Contributions</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Krishprajapati15&count_private=true&show_icons=true&theme=radical" alt="Contributions" />
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3 style="color:orange;">Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishprajapati15&theme=radical" alt="Streak Stats" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <h3 style="color:orange;">Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishprajapati15&layout=compact&theme=radical" alt="Top Languages" />
     </td>
