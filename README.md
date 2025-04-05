@@ -51,7 +51,7 @@ Let’s create something amazing together!
 
 ### 🏆 Achievements & Soft Skills
 
-- 🏅 **Finalist in Three Hackathons** with **Hacker House**.  
+- 🏅 **Finalist in Three Hackathons** with **SBI HACK-AI-THON**.  
 - 🏅 **Waitlist for SIH 2024 Grand Finale**.  
 - 💡 **Innovative Thinking**: Designed and implemented **AI-driven systems** and **real-time data solutions**.  
 - 🌟 **Team Leader**: Collaborated across diverse teams to achieve shared goals.  
