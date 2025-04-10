@@ -66,7 +66,7 @@ Let's create something amazing together!
 
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishprajapati15&theme=radical&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishprajapati15&theme=radical&hide_border=false" width="78%"/>
 
 </div>
 
