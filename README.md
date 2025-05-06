@@ -12,23 +12,6 @@
 </div>
 
 
-<hr>
-
-## 💫 About Me
-<div align="center">
-    <img align="right" height="320" width="320" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-
-Hello! I'm Krish Prajapati, a skilled MERN Stack Developer and Creative Technologist passionate about turning innovative ideas into practical solutions. With expertise in JavaScript, TypeScript, React, Next.js, Node.js, Data Analysis, and Machine Learning, I thrive on building robust and user-friendly web applications.
-
-✨ I'm always excited to explore emerging technologies like AI and Docker to enhance my development process. My focus lies in creating scalable, visually appealing, and impactful solutions that address real-world challenges. 🚀
-
-🌟 From designing smart AI systems to developing efficient tools for everyday use, I aim to blend creativity with technology in everything I do. Whether leading a team or collaborating on innovative projects, I bring a proactive and problem-solving mindset to the table.
-
-Let's create something amazing together!
-
-<hr>
-
 ## 🌐 Socials:
 <div align="center">
 
