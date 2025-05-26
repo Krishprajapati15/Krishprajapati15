@@ -22,8 +22,18 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishprajapati15" alt="krishprajapati15" /></a> </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=krishprajapati15&theme=dracula&row=1&column=8" 
+      alt="krishprajapati15 GitHub Trophies"
+    />
+  </a>
+</p>
+
 <hr>
+
 
 ## 💻 Tech Stack:
 
