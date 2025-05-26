@@ -1,3 +1,7 @@
+
+
+
+
 <!-- Animated Header Banner -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,27,1&height=200&section=header&text=Krish%20Prajapati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Creative%20Technologist&descAlignY=55&descSize=20"/>
@@ -26,7 +30,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=krishprajapati15&theme=dracula&row=1&column=8" 
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=krishprajapati15&theme=dracula&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&margin-w=15&margin-h=15" 
       alt="krishprajapati15 GitHub Trophies"
     />
   </a>
