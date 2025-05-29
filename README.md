@@ -1,7 +1,3 @@
-
-
-
-
 <!-- Animated Header Banner -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,27,1&height=200&section=header&text=Krish%20Prajapati&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Creative%20Technologist&descAlignY=55&descSize=20"/>
@@ -58,12 +54,21 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <p align="center" style="margin-bottom: 0;">
+  
+
+  <!-- First Row: Streak + GitHub Stats -->
+  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishprajapati15&theme=radical&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=krishprajapati15&show_icons=true&locale=en&theme=radical&hide_border=false" width="45.5%" />
+  </p>
+
+  <!-- Second Row: Top Languages -->
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishprajapati15&theme=radical&hide_border=false&layout=compact&langs_count=6" width="48%" />
   </p>
-  <p align="center" style="margin-top: 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishprajapati15&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" />
+  
+
+    
   </p>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishprajapati15&theme=radical&hide_border=false" width="95%"/>
