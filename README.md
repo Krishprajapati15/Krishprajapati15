@@ -59,13 +59,11 @@
 # 📊 GitHub Stats:
 <div align="center">
   <p align="center" style="margin-bottom: 0;">
-    <!-- First row: Two cards side by side -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishprajapati15&theme=radical&hide_border=false" width="48%" style="max-width:370px; min-width:250px; height:180px; margin-right: 1%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishprajapati15&theme=radical&hide_border=false&layout=compact&langs_count=6" width="48%" style="max-width:370px; min-width:250px; height:180px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishprajapati15&theme=radical&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishprajapati15&theme=radical&hide_border=false&layout=compact&langs_count=6" width="48%" />
   </p>
   <p align="center" style="margin-top: 0;">
-    <!-- Second row: Single card, centered -->
-    <img src="https://github-readme-stats.vercel.app/api?username=krishprajapati15&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" style="max-width:370px; min-width:250px; height:180px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=krishprajapati15&show_icons=true&locale=en&theme=radical&hide_border=false" width="48%" />
   </p>
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishprajapati15&theme=radical&hide_border=false" width="95%"/>
