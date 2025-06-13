@@ -11,7 +11,6 @@
     </a>
 </div>
 
-
 ## 🌐 Socials
 
 <div align="center">
@@ -20,42 +19,42 @@
   <tr>
     <td align="center" style="border:none;">
       <a href="http://krishprajapati.tech/" target="_blank" title="Portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-000000?logo=aboutdotme&logoColor=00e7ff&style=flat" alt="Portfolio" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Portfolio-000000?logo=aboutdotme&logoColor=00e7ff&style=flat" alt="Portfolio" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://gist.github.com/Krishprajapati15" target="_blank" title="GitHub Gist">
-        <img src="https://img.shields.io/badge/Gist-000000?logo=github&logoColor=white&style=flat" alt="GitHub Gist" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Gist-000000?logo=github&logoColor=white&style=flat" alt="GitHub Gist" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://krishprajapati.hashnode.dev/my-journey" target="_blank" title="Hashnode">
-        <img src="https://img.shields.io/badge/Hashnode-000000?logo=hashnode&logoColor=2962FF&style=flat" alt="Hashnode" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Hashnode-000000?logo=hashnode&logoColor=2962FF&style=flat" alt="Hashnode" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://stackoverflow.com/users/30664711/krish-prajapati" target="_blank" title="Stack Overflow">
-        <img src="https://img.shields.io/badge/Stack%20Overflow-000000?logo=stackoverflow&logoColor=F58025&style=flat" alt="Stack Overflow" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-000000?logo=stackoverflow&logoColor=F58025&style=flat" alt="Stack Overflow" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://x.com/krishPr88603152?t=17ZgWqQvcGipD0YuYosMiw&s=09" target="_blank" title="X (Twitter)">
-        <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://instagram.com/krish._prajapati" target="_blank" title="Instagram">
-        <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=E4405F&style=flat" alt="Instagram" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=E4405F&style=flat" alt="Instagram" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://www.linkedin.com/in/krish-prajapati-37417226a/" target="_blank" title="LinkedIn">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0077B5&style=flat" alt="LinkedIn" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0077B5&style=flat" alt="LinkedIn" height="40">
       </a>
     </td>
     <td align="center" style="border:none;">
       <a href="mailto:prajapatikrish132005@gmail.com" target="_blank" title="Email">
-        <img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=D14836&style=flat" alt="Email" style="margin: 6px 10px; border-radius: 30px;">
+        <img src="https://img.shields.io/badge/Email-000000?logo=gmail&logoColor=D14836&style=flat" alt="Email" height="40">
       </a>
     </td>
   </tr>
