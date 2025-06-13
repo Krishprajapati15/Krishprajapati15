@@ -78,7 +78,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.screw-hand.vercel.app/?username=krishprajapati15&theme=dracula&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&margin-
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=krishprajapati15&theme=dracula&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&margin-w=15&margin-h=15" 
       alt="krishprajapati15 GitHub Trophies"
     />
   </a>
