@@ -148,7 +148,6 @@
       <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker"/>
       <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" alt="Kubernetes"/>
       <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws" alt="AWS"/>
-      <img src="https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=google-cloud" alt="Google Cloud"/>
       <img src="https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify" alt="Netlify"/>
       <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
     </td>
