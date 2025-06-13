@@ -87,22 +87,81 @@
 </p>
 
 <hr>
-
-
-## 💻 Tech Stack:
-
-| Category | Technologies & Tools |
-|----------|-------------------|
-| **Programming Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend Core** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) |
-| **Frontend Frameworks & UI** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) |
-| **Backend Development** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) |
-| **Mobile Development** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
-| **Cloud & Hosting** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| **Developer Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) |
-| **Data Science & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| **Others** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=c" alt="C"/>
+      <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B" alt="C++"/>
+      <img src="https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp" alt="C#"/>
+      <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python"/>
+      <img src="https://img.shields.io/badge/-PHP-000000?style=flat&logo=php" alt="PHP"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React"/>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte" alt="Svelte"/>
+      <img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux" alt="Redux"/>
+      <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css" alt="TailwindCSS"/>
+      <img src="https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass" alt="SASS"/>
+      <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js" alt="Three.js"/>
+      <img src="https://img.shields.io/badge/-Chart.js-000000?style=flat&logo=chart.js" alt="Chart.js"/>
+      <img src="https://img.shields.io/badge/-Radix%20UI-000000?style=flat&logo=radix-ui" alt="Radix UI"/>
+      <img src="https://img.shields.io/badge/-EJS-000000?style=flat&logo=ejs" alt="EJS"/>
+      <img src="https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress" alt="WordPress"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=nodemon" alt="Nodemon"/>
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/-Socket.IO-000000?style=flat&logo=socket.io" alt="Socket.IO"/>
+      <img src="https://img.shields.io/badge/-Web3.js-000000?style=flat&logo=web3.js" alt="Web3.js"/>
+      <img src="https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net" alt=".NET"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/-Supabase-000000?style=flat&logo=supabase" alt="Supabase"/>
+      <img src="https://img.shields.io/badge/-Amazon%20DynamoDB-000000?style=flat&logo=amazon-dynamodb" alt="AmazonDynamoDB"/>
+      <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & DevOps</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws" alt="AWS"/>
+      <img src="https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=google-cloud" alt="Google Cloud"/>
+      <img src="https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify" alt="Netlify"/>
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel" alt="Vercel"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Project Management & Tools</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira" alt="Jira"/>
+      <img src="https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman" alt="Postman"/>
+      <img src="https://img.shields.io/badge/-Power%20BI-000000?style=flat&logo=powerbi" alt="Power BI"/>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
