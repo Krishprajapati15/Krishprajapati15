@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/krishprajapati15/krishprajapati15/main/tech-stack.png" width="100%" alt="Tech Stack"/>
+<img src="https://raw.githubusercontent.com/krishprajapati15/krishprajapati15/main/techstack.png" width="100%" alt="Tech Stack"/>
 
 </div>
 
