@@ -89,11 +89,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,svelte,redux,tailwind,sass,threejs,nodejs,express,graphql,fastapi,django,mongodb,mysql,postgres,dynamodb,firebase,docker,kubernetes,aws,gcp,kafka,jenkins,postman&perline=14" />
+<img src="https://raw.githubusercontent.com/krishprajapati15/krishprajapati15/main/tech-stack.png" width="100%" alt="Tech Stack"/>
 
-<br/>
 </div>
 
 <hr>
